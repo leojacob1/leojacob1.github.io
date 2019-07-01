@@ -64,8 +64,7 @@ I made a table with every combination of slogan, size, and color, as well as a d
 
 Surprisingly, when I checked StockX, the black “board man” combination were receiving substantially larger bids than white or “fun guy” shirts. Not so coincidentally, the New Balance store was all sold out of them when I went back. I’m not quite sure why my model did not predict this. Kawhi wore the black “board man” shirt to the parade, so maybe that had something to do with it.
 
-<img src="images/kawhi_parade.jpg?raw=true"/>
-###### Pictured: a fun guy having a fun time about to get paid.
+<div style="width:image width px; font-size:80%; text-align:center;"><img src="images/kawhi_parade.jpg?raw=true"/>Pictured: a fun guy having a fun time about to get paid.</div>
 
 At the New Balance store I picked up 2 large “fun guy” shirts in black (the model’s top choice) and one in white (all they had left). I immediately flipped them on StockX to avoid depreciation. The shirts sold for $45, $45, and $46 dollars, and after StockX’s fee (14%!), I ended up profiting $26.92. I guess it’s not just the board man who gets paid, huh. I probably could have flipped a couple more shirts, but it wouldn’t have been worth the risk of getting stuck with them, and the point of all this was to demonstrate a cool use of modeling, rather than making a few bucks.
 
