@@ -1,6 +1,11 @@
-## This can be your internal website page / project page
+# Kawhi T-Shirt Reselling
 
-**Project description:** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+**Background:** I was in Rittenhouse Square, Philadelphia, with a few minutes to kill, and I came across a New Balance store. I went in (with zero intention to buy anything) and saw that they were selling shirts with Kawhi slogans on them.
+
+I absolutely love Kawhi as a player, despite the protest from the most bitter aspects of my Sixers fandom.
+<img src="images/tenor.gif?raw=true"/>
+<img src="images/shirt_gallery.png?raw=true"/>
+
 
 ### 1. Suggest hypotheses about the causes of observed phenomena
 
