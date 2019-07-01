@@ -11,7 +11,7 @@
 
 ### Web and mobile development
 
-[An interactive baseball statistical tool] (https://ovo-interactive.herokuapp.com/)
+[An interactive baseball statistical tool](https://ovo-interactive.herokuapp.com/)
 <img src="images/ovo.png?raw=true"/>
 
 ---
