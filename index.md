@@ -1,10 +1,10 @@
-## Portfolio
+## My portfolio
 
 ---
 
-### Category Name 1 
+### Statistics / Modeling
 
-[Project 1 Title](/sample_page)
+[Using models to resell Kawhi shirts](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
@@ -17,7 +17,7 @@
 
 ---
 
-### Category Name 2
+### Web and mobile development
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
