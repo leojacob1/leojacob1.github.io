@@ -4,7 +4,7 @@
 
 ### Statistics / Modeling
 
-[Using models to resell Kawhi shirts](/sample_page)
+[Using models to resell Kawhi shirts](/kawhi)
 <img src="images/title_board.jpg?raw=true"/>
 
 ---
