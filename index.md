@@ -13,4 +13,4 @@
 ---
 
 [An interactive visualization of an RC Circuit](https://leojacoby.shinyapps.io/rccircuit/)
-<img src="images/rccircuit.png"/>
+<img src="images/rccircuit.png?raw=true"/>
