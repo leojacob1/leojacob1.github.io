@@ -4,7 +4,7 @@
 In my AP Physics 2 class, we did an independent project around RC Circuits. The premise was that we were writing a cover letter to a potential employer. Here is my letter and project...
 <br>
 Click image to see project!
-<a href="leojacoby.shinyapps.io/rccircuit/"><img src="images/rccircuit.png?raw=true"/></a>
+<a href="https://leojacoby.shinyapps.io/rccircuit/"><img src="images/rccircuit.png?raw=true"/></a>
 <br>
 
 ## Cover Letter
