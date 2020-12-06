@@ -1,5 +1,8 @@
 ## My portfolio
 
+[Visualizing COVID's spread with animated maps (with CovidActNow.org)](/can-animap)
+<img src="images/animap.png?raw=true"/>
+
 ---
 
 [Using models to resell Kawhi shirts](/kawhi)
