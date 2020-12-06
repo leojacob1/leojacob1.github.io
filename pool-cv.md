@@ -24,8 +24,8 @@ I also found this [less-detailed but still useful blog](https://gocardless.com/b
 
 ### 12/5/2020
 
-<img src="table.png?raw=true"/>
-<img src="table_bounds.png?raw=true"/>
+<img src="images/table.png?raw=true"/>
+<img src="images/table_bounds.png?raw=true"/>
 
 
 I began with [this incredible tutorial](https://www.pyimagesearch.com/2014/01/22/clever-girl-a-guide-to-utilizing-color-histograms-for-computer-vision-and-image-search-engines/) on how to create color histograms
@@ -33,4 +33,5 @@ and identify peaks as commonly used colors in an image. This is a super importan
 be able to pick out the color of the pool table.
 <br>
 However, I eventually found a [solution on StackOverflow](https://stackoverflow.com/questions/50899692/most-dominant-color-in-rgb-image-opencv-numpy-python) that did this job much more concisely. I wrote my own
-function that takes an image and returns
+function that takes an image and a scale and returns the image zoomed in to that scale. Essentially, it
+crops and resizes. I used this function before I found the dominant color in the image
