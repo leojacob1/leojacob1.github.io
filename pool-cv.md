@@ -19,3 +19,18 @@ I found a few examples online of people doing similar things. The most relevant 
 [this paper from UCSD](http://kastner.ucsd.edu/ryan/wp-content/uploads/sites/5/2014/03/admin/pool-aid.pdf) (Go Tritons!).
 <br>
 I also found this [less-detailed but still useful blog](https://gocardless.com/blog/hacking-on-side-projects-the-pool-ball-tracker/) from a London startup.
+
+## Work blog
+
+### 12/5/2020
+
+<img src="table.png?raw=true"/>
+<img src="table_bounds.png?raw=true"/>
+
+
+I began with [this incredible tutorial](https://www.pyimagesearch.com/2014/01/22/clever-girl-a-guide-to-utilizing-color-histograms-for-computer-vision-and-image-search-engines/) on how to create color histograms
+and identify peaks as commonly used colors in an image. This is a super important concept because I need to
+be able to pick out the color of the pool table.
+<br>
+However, I eventually found a [solution on StackOverflow](https://stackoverflow.com/questions/50899692/most-dominant-color-in-rgb-image-opencv-numpy-python) that did this job much more concisely. I wrote my own
+function that takes an image and returns
