@@ -1,11 +1,15 @@
 ## My portfolio
 
+[Analyzing pool games with computer vision](/pool-cv)
+<img src="images/pool-table-raw.jpg?raw=true"/>
+<img src="images/pool-table-bounds.png?raw=true"/>
+
 [Visualizing COVID's spread with animated maps (with CovidActNow.org)](/can-animap)
 <img src="images/animap.png?raw=true"/>
 
 ---
 
-[Using models to resell Kawhi shirts](/kawhi)
+[Using models to resell Kawhi Leonard New Balance shirts](/kawhi)
 <img src="images/title_board.jpg?raw=true"/>
 
 ---
