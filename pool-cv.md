@@ -41,4 +41,4 @@ function that takes an image and a scale and returns the image zoomed in to that
 crops and resizes. I used this function before I found the dominant color in the image just in case an image had a large background with another color that runs the risk of being identified as the dominant color.
 <br><br>
 I next needed to get a binary mask of just the pixels of that dominant color. The table color isn't homogenous
-so I created a lower and upper bounds of the RGB color using a +/- 40 value. When I observed
+so I created a lower and upper bounds of the RGB color using a +/- 40 value.
