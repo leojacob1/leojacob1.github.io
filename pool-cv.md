@@ -40,5 +40,9 @@ However, I eventually found a [solution on StackOverflow](https://stackoverflow.
 function that takes an image and a scale and returns the image zoomed in to that scale. Essentially, it
 crops and resizes. I used this function before I found the dominant color in the image just in case an image had a large background with another color that runs the risk of being identified as the dominant color.
 <br><br>
-I next needed to get a binary mask of just the pixels of that dominant color. The table color isn't homogenous
-so I created a lower and upper bounds of the RGB color using a +/- 40 value.
+I next needed to get a binary mask of just the pixels with that dominant color. The table color isn't homogenous so I created a lower and upper bounds of the RGB color using a +/- 40 value. The mask looked like
+this:
+<img src="images/mask.png?raw=true"/>
+Next step was to find the largest contour. I'm still a little unclear on what a contour actually is, but my
+current understanding is that it's an edge between the two colors of the binary mask. The largest contour
+would then be the outline of the table. 
