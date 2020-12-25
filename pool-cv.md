@@ -42,7 +42,9 @@ crops and resizes. I used this function before I found the dominant color in the
 <br><br>
 I next needed to get a binary mask of just the pixels with that dominant color. The table color isn't homogenous so I created a lower and upper bounds of the RGB color using a +/- 40 value. The mask looked like
 this:
-<img src="images/mask.png?raw=true"/>
+<img src="images/mask.png?raw=true"/><br>
 Next step was to find the largest contour. I'm still a little unclear on what a contour actually is, but my
 current understanding is that it's an edge between the two colors of the binary mask. The largest contour
-would then be the outline of the table. 
+would then be the outline of the table. I then draw the smallest enclosing rectangle around that contour.
+I'm making a bit of an assumption here that the camera is directly perpendicular to the table, and that the
+image is a rectangle rather than another type of quadrilateral. 
